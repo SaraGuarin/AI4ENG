@@ -5,8 +5,6 @@ Proyecto Análisis de Datos para Predicción de Patologías Asociadas a la Tiroi
 
 - Carlos Hernán Molina Bustos CC 1017247427 *Bioingeniería*
 
-- Bryan Zuleta Vélez CC 1026153051 *Ingeniería de Sistemas*
-
 - Sara Camila Guarín Castillo CC 1000194378 *Bioingeniería*
 
 ## Dataset:
