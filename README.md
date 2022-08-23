@@ -1,10 +1,6 @@
 # AI4ENG
 Proyecto Análisis de Datos para Predicción de Patologías Asociadas a la Tiroides.
 
-## Link a youtube para los videos de las entregas:
-
--01_Exploración_de_datos - https://youtu.be/comumN-V8gY
-
 ## Integrantes:
 
 - Carlos Hernán Molina Bustos CC 1017247427 *Bioingeniería*
